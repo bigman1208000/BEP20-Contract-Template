@@ -351,8 +351,8 @@ contract RecehToken is Context, IBEP20, Ownable {
   constructor() public {
     _name = "Receh Token";
     _symbol = "RECEH";
-    _decimals = 8;
-    _totalSupply = 100000000000000;
+    _decimals = 18;
+    _totalSupply = 1000000000000000000000000;
     _balances[msg.sender] = _totalSupply;
 
     emit Transfer(address(0), msg.sender, _totalSupply);
