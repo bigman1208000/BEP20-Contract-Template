@@ -352,7 +352,7 @@ contract RecehToken is Context, IBEP20, Ownable {
     _name = "Receh Token";
     _symbol = "RECEH";
     _decimals = 8;
-    _totalSupply = 1000000;
+    _totalSupply = 100000000000000;
     _balances[msg.sender] = _totalSupply;
 
     emit Transfer(address(0), msg.sender, _totalSupply);
