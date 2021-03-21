@@ -20,7 +20,7 @@ if you need help deployment standard BEP20 tokens (binance smart chain / BSC) I 
 
 💬 Telegram <a href="https://t.me/agusfinance">@agusFinance</a>
 
-👥 Twitter <a href="https://twitter.com/agus_sfd">@agus_sfd</a>
+👥 Twitter <a href="https://twitter.com/agus_finance">@agus_Finance</a>
 
 📧 Email <a href="mailto:cs@agus.finance" rel="nofollow">cs@agus.finance</a>
 
