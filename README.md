@@ -1,5 +1,5 @@
 # BEP20-Contract-Template
-Standart BEP20 Smart Contract BSC (binance smart chain)
+BSCToken.sol Standart BEP20 Smart Contract BSC (binance smart chain)
 
 ### NOTE
 
@@ -14,7 +14,7 @@ Standart BEP20 Smart Contract BSC (binance smart chain)
 ```
 ### BEP20 Token Creation Services
 
-if you need help deployment standard BEP20 tokens (binance smart chain / BSC) I am ready to help you with a service fee of $50
+if you need help deployment standard BEP20 tokens (binance smart chain / BSC) I am ready to help you with a service fee of $70 + list token on PancakeSwap.
 
 <b>Contact me on:</b>
 
