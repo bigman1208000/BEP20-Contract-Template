@@ -14,7 +14,7 @@ BSCToken.sol Standart BEP20 Smart Contract BSC (binance smart chain)
 ```
 ### BEP20 Token Creation Services
 
-if you need help deployment standard BEP20 tokens (binance smart chain / BSC) I am ready to help you with a service fee of $100 + list token on PancakeSwap & bonus <a href="https://tokoagus.id/produk/ico-crypto/"template html ICO Crypto</a> for website landing pages.
+if you need help deployment standard BEP20 tokens (binance smart chain / BSC) I am ready to help you with a service fee of $100 + list token on PancakeSwap & bonus <a href="https://tokoagus.id/produk/ico-crypto/">template html ICO Crypto</a> for website landing pages.
 
 <b>Contact me on:</b>
 
