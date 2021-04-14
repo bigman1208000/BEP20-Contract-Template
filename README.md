@@ -18,10 +18,12 @@ if you need help deployment standard BEP20 tokens (binance smart chain / BSC) I 
 
 <b>Contact me on:</b>
 
-💬 Telegram <a href="https://t.me/agusfinance">@agusFinance</a>
+💬 Telegram <a href="https://t.me/tokoagus">@TokoAgus</a>
 
-👥 Twitter <a href="https://twitter.com/agus_finance">@agus_Finance</a>
+👥 Twitter <a href="https://twitter.com/tokoagusid">@TokoAgusID</a>
 
-📧 Email <a href="mailto:cs@agus.finance" rel="nofollow">cs@agus.finance</a>
+👥 Ngapak.ID <a href="https://ngapak.id/agus">@agus</a>
 
-🌐 Website <a href="https://agus.finance">agus.Finance</a>
+📧 Email <a href="mailto:cs@tokoagus.id" rel="nofollow">cs@tokoagus.id</a>
+
+🌐 Website <a href="https://tokoagus.id">www.tokoagus.id</a>
