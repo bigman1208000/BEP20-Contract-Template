@@ -336,7 +336,7 @@ contract Ownable is Context {
   }
 }
 
-contract BSCToken is Context, IBEP20, Ownable {
+contract BEP20Standard is Context, IBEP20, Ownable {
   using SafeMath for uint256;
 
   mapping (address => uint256) private _balances;
@@ -349,8 +349,8 @@ contract BSCToken is Context, IBEP20, Ownable {
   string private _name;
 
   constructor() public {
-    _name = "BSC Token";
-    _symbol = "BSCT";
+    _name = "BEP20 Standard";
+    _symbol = "BEST";
     _decimals = 8;
     _totalSupply = 10000000000000; // 100 thousand
     _balances[msg.sender] = _totalSupply;
