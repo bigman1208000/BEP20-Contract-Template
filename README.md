@@ -1,5 +1,5 @@
 # BEP20-Contract-Template
-BSCToken.sol Standart BEP20 Smart Contract BSC (binance smart chain)
+BEP20-Standard.sol Standart BEP20 Smart Contract BSC (binance smart chain)
 
 ### NOTE
 
