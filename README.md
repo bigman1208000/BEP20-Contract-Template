@@ -22,8 +22,6 @@ if you need help deployment standard BEP20 tokens (binance smart chain / BSC) I 
 
 👥 Twitter <a href="https://twitter.com/tokoagusid">@TokoAgusID</a>
 
-👥 Ngapak.ID <a href="https://ngapak.id/agus">@agus</a>
-
 📧 Email <a href="mailto:cs@tokoagus.id" rel="nofollow">cs@tokoagus.id</a>
 
 🌐 Website <a href="https://tokoagus.id">www.tokoagus.id</a>
