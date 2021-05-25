@@ -15,7 +15,3 @@ BEP20-Standard.sol Standart BEP20 Smart Contract BSC (binance smart chain)
 ### BEP20 Token Creation Services
 
 if you need help deployment "standard BEP20 contract", I am ready to help you with a service fee of 0,09 BNB.
-
-<b>Contact me on:</b>
-
-💬 Telegram <a href="https://t.me/tokoagus">@TokoAgus</a>
